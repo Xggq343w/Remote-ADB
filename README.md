@@ -5,7 +5,7 @@
 ### 💎💎💎💎💎💎 If the application is not working, please make sure to refer to the following tutorial. If you are a beginner or using this application for the first time, please make sure to refer to the following tutorial. If you have any questions, please refer to the following FAQ or contact us via email (colorboxguestservice@gmail.com).🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥥🥝🍅
 #### [Tutorials->How to open and connect adb](./md/tutorials.md)
 #### [FAQ](./md/tutorials.md)
-
+`
 ## Shell features:
 1. Support Android 4.X-Android 13
 2. Support pair mode
@@ -45,4 +45,4 @@
 
 ## Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
-- [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+- [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)`
